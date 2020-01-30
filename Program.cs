@@ -10,6 +10,9 @@ namespace GitTutorial
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("WÄÄÄÄ");
+
         }
     }
 }
